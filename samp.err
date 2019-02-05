@@ -1,0 +1,5 @@
+Warning[216] J:\SENIOR SPRING\EMBEDDED\LAB1\SAMP.ASM 8 : Radix superseded by command line.
+Message[302] J:\SENIOR SPRING\EMBEDDED\LAB1\SAMP.ASM 33 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] J:\SENIOR SPRING\EMBEDDED\LAB1\SAMP.ASM 35 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] J:\SENIOR SPRING\EMBEDDED\LAB1\SAMP.ASM 38 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] J:\SENIOR SPRING\EMBEDDED\LAB1\SAMP.ASM 40 : Register in operand not in bank 0.  Ensure that bank bits are correct.
